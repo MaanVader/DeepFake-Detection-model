@@ -60,12 +60,13 @@ print('Real' if prediction[0][0] < 0.5 else 'Fake')
 ## How to Use
 
 1. **Clone the repository**:
+   To Get the actual model `cnn_model.h5` visit this link: [link](https://huggingface.co/MaanVad3r/DeepFake-Detector)
     ```bash
-    git clone https://github.com/MaanVader/DeepFake-Detection-model.git
+    git clone https://huggingface.co/MaanVad3r/DeepFake-Detector
     cd DeepFake-Detection-model.git
     ```
 
-2. **Run Inference**:
+3. **Run Inference**:
     Use the provided script or the sample code above to run inference on your images.
 
 ## License
