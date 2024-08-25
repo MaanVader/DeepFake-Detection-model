@@ -61,8 +61,8 @@ print('Real' if prediction[0][0] < 0.5 else 'Fake')
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repo/cnn-deepfake-detection.git
-    cd cnn-deepfake-detection
+    git clone https://github.com/MaanVader/DeepFake-Detection-model.git
+    cd DeepFake-Detection-model.git
     ```
 
 2. **Run Inference**:
