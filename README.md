@@ -60,7 +60,7 @@ print('Real' if prediction[0][0] < 0.5 else 'Fake')
 ## How to Use
 
 1. **Clone the repository**:
-   To Get the actual model `cnn_model.h5` visit this link: [link](https://huggingface.co/MaanVad3r/DeepFake-Detector)
+   To Get the actual model `cnn_model.h5` visit this link: [Guggingface-site](https://huggingface.co/MaanVad3r/DeepFake-Detector)
     ```bash
     git clone https://huggingface.co/MaanVad3r/DeepFake-Detector
     cd DeepFake-Detection-model.git
