@@ -36,7 +36,7 @@ This accuracy reflects the model's ability to correctly identify real and deepfa
 
 ## Usage
 
-You can use this model for inference by loading the model and running predictions on new images. Below is an example using TensorFlow/Keras:
+You can use this model for inference by loading the model and running predictions on new images. Below is an example using TensorFlow/Keras or  can run the `detector2.py` script:
 
 ```python
 from tensorflow.keras.models import load_model
